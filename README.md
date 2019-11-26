@@ -10,7 +10,7 @@ A ME-model framework to simulate the response of E. coli under acid stress
 * cobrapy == 0.5.11
 * biopython >= 1.60
 
-For more information on solving the ME-model, please refer to [cobrame package](https://github.com/SBRG/cobrame).
+For more information on solving the ME-model, please refer to [cobrame package](https://github.com/SBRG/cobrame). The related manuscript entitled "Genome-scale model of metabolism and gene expression provides a multi-scale description of acid stress responses in Escherichia coli" has been accepted at PLOS Computational Biology.
 
 ## Overview of files in /data
 * /proteins, a directory that contains the information about the periplasmic proteins of *E. coli* as described by the ME-model, including protein structure (prot.pdb) and the calculated charges of the folded protein and its side chains under different pH values (sum_crg.out).
